@@ -1,5 +1,5 @@
 <svg width="200" height="200"
     xmlns="http://www.w3.org/2000/svg"
     xmlns:xlink="http://www.w3.org/1999/xlink">
-    <use xlink:href="https://example.com/file2.svg#foo"/>
+    <use xlink:href="https://raw.githubusercontent.com/kaftejiman/svg/2e602f900dfa230261ac605d2b4d16502d3c264e/inline.svg"/>
 </svg>
