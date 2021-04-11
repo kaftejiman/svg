@@ -1,1 +1,1 @@
-# SVG tests
+# various SVG payloads
