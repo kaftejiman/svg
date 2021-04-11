@@ -2,5 +2,5 @@
     xmlns="http://www.w3.org/2000/svg"
     xmlns:xlink="http://www.w3.org/1999/xlink">
     <circle cx="50" cy="50" r="45" fill="green" id="foo" o="foo"/>
-    <script src="https://raw.githubusercontent.com/kaftejiman/svg/2e602f900dfa230261ac605d2b4d16502d3c264e/script.js" type="text/javascript"/>
+    <script src="https://raw.githubusercontent.com/kaftejiman/svg/script.js" type="text/javascript"/>
 </svg>
